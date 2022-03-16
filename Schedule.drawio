@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T12:49:44.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="f0g-H9YdmXN2DzcQttXc" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T07:45:05.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="bP-u4tgd-UcLDnLlnzlk" version="17.1.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1932" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#E6FFCC" math="0" shadow="0">
+    <mxGraphModel dx="3640" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#E6FFCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TrbpMphKD7TbdpJShQMu-66" value="&lt;font style=&quot;font-size: 12px&quot;&gt;fail&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=18;width=50;height=20;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-66" value="&lt;font style=&quot;font-size: 12px&quot;&gt;fail&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=18;width=50;height=20;" parent="1" vertex="1">
           <mxGeometry x="200" y="568" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.164;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TrbpMphKD7TbdpJShQMu-24" target="TrbpMphKD7TbdpJShQMu-33">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.164;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TrbpMphKD7TbdpJShQMu-24" target="TrbpMphKD7TbdpJShQMu-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294.5" y="249" as="sourcePoint" />
             <mxPoint x="-5.5" y="249" as="targetPoint" />
@@ -15,15 +15,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="MeetingScheduleViewModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="70" width="286" height="770" as="geometry" />
+          <mxGeometry x="134" y="70" width="286" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-44" value="&lt;font style=&quot;font-size: 12px&quot;&gt;fail&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=18;width=50;height=20;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-44" value="&lt;font style=&quot;font-size: 12px&quot;&gt;fail&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=18;width=50;height=20;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="66" y="260" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="140.5" y="150" width="10" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-43" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MeetingSchedulingStatus::Opening)&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=18;" edge="1" target="TrbpMphKD7TbdpJShQMu-42" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-43" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MeetingSchedulingStatus::Opening)&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=18;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="TrbpMphKD7TbdpJShQMu-42" edge="1">
           <mxGeometry x="-0.1058" relative="1" as="geometry">
             <mxPoint x="151" y="270.9107142857143" as="sourcePoint" />
             <Array as="points">
@@ -32,98 +32,83 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=18;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=18;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="146" y="282.98" width="10" height="42.02" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="CalendarService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="70" width="100" height="770" as="geometry" />
+        <mxCell id="TrbpMphKD7TbdpJShQMu-3" value="MeetingSchedulingFooterViewController" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="70" width="230" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
-          <mxGeometry x="45" y="411" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
-          <mxGeometry x="45" y="647" width="10" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-1" value="CalendarAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="70" width="100" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-1">
-          <mxGeometry x="44" y="425" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-3" value="MeetingSchedulingFooterViewController" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="70" width="230" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-3">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="TrbpMphKD7TbdpJShQMu-3" vertex="1">
           <mxGeometry x="110" y="110" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-18" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="TrbpMphKD7TbdpJShQMu-17" parent="TrbpMphKD7TbdpJShQMu-3">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-18" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" parent="TrbpMphKD7TbdpJShQMu-3" target="TrbpMphKD7TbdpJShQMu-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-22" value="onScheduleButtonClicked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-3">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-22" value="onScheduleButtonClicked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="TrbpMphKD7TbdpJShQMu-3" vertex="1">
           <mxGeometry x="-50" y="87" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-5" value="WebexMeetingService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="70" width="170" height="770" as="geometry" />
+        <mxCell id="TrbpMphKD7TbdpJShQMu-5" value="WebexMeetingService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="70" width="170" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-5">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="TrbpMphKD7TbdpJShQMu-5" vertex="1">
           <mxGeometry x="80" y="216" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-7" value="WebexMeetingApiAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="70" width="170" height="770" as="geometry" />
+        <mxCell id="TrbpMphKD7TbdpJShQMu-7" value="WebexMeetingApiAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="70" width="170" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-7">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="TrbpMphKD7TbdpJShQMu-7" vertex="1">
           <mxGeometry x="80" y="216" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-14" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22ValidateMeetingPassword%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%22190%22%20width%3D%22150%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-14" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22ValidateMeetingPassword%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%22190%22%20width%3D%22150%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-15" value="scheduleMeeting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-15" value="scheduleMeeting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="198" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="190" width="30" height="60" as="geometry" />
+        <mxCell id="TrbpMphKD7TbdpJShQMu-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-860" y="190" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-25" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;exitX=1.1;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="TrbpMphKD7TbdpJShQMu-24" parent="1" source="TrbpMphKD7TbdpJShQMu-17">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-25" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;exitX=1.1;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TrbpMphKD7TbdpJShQMu-17" target="TrbpMphKD7TbdpJShQMu-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-27" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;ValidateMeetingPassword&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="TrbpMphKD7TbdpJShQMu-26" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-27" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;ValidateMeetingPassword&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" target="TrbpMphKD7TbdpJShQMu-26" edge="1">
           <mxGeometry x="0.0224" y="10" relative="1" as="geometry">
             <mxPoint x="280" y="290" as="sourcePoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="TrbpMphKD7TbdpJShQMu-26" parent="1" target="TrbpMphKD7TbdpJShQMu-24">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="TrbpMphKD7TbdpJShQMu-26" target="TrbpMphKD7TbdpJShQMu-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294.5" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-30" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;ValidateMeetingPassword&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="TrbpMphKD7TbdpJShQMu-29" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-30" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;ValidateMeetingPassword&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="TrbpMphKD7TbdpJShQMu-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="544.5" y="286" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="TrbpMphKD7TbdpJShQMu-29" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="TrbpMphKD7TbdpJShQMu-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-32" value="MeetingSchedulingProviderViewController" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="70" width="340" height="770" as="geometry" />
+        <mxCell id="TrbpMphKD7TbdpJShQMu-32" value="MeetingSchedulingProviderViewController" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="70" width="340" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-32">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="TrbpMphKD7TbdpJShQMu-32" vertex="1">
           <mxGeometry x="165" y="181" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-35" value="_:onMeetingPasswordChanged:errorInfo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-32">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-35" value="_:onMeetingPasswordChanged:errorInfo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="TrbpMphKD7TbdpJShQMu-32" vertex="1">
           <mxGeometry x="236" y="171" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-32">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="TrbpMphKD7TbdpJShQMu-32" vertex="1">
           <mxGeometry x="169" y="245" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-39" value="updatePasswordInfo(errorInfo:)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="TrbpMphKD7TbdpJShQMu-38" parent="TrbpMphKD7TbdpJShQMu-32">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-39" value="updatePasswordInfo(errorInfo:)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="TrbpMphKD7TbdpJShQMu-32" target="TrbpMphKD7TbdpJShQMu-38" edge="1">
           <mxGeometry x="-0.0099" relative="1" as="geometry">
             <mxPoint x="170" y="215" as="sourcePoint" />
             <Array as="points">
@@ -133,33 +118,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-41" value="&lt;font face=&quot;Lucida Console&quot;&gt;MeetTabEntryViewController&amp;nbsp; Schedule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-41" value="&lt;font face=&quot;Lucida Console&quot;&gt;MeetTabEntryViewController&amp;nbsp; Schedule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="-810" y="20" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-51" value="scheduleMeeting" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" target="TrbpMphKD7TbdpJShQMu-50" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-51" value="scheduleMeeting" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" target="TrbpMphKD7TbdpJShQMu-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284.5" y="481" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-52" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" source="TrbpMphKD7TbdpJShQMu-50" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-52" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" source="TrbpMphKD7TbdpJShQMu-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284.5" y="557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-56" value="scheduleMeeting" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" target="TrbpMphKD7TbdpJShQMu-55" parent="1" source="TrbpMphKD7TbdpJShQMu-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="495" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-57" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" source="TrbpMphKD7TbdpJShQMu-55" parent="1" target="TrbpMphKD7TbdpJShQMu-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="543" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="279" y="436" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-65" value="&lt;span style=&quot;text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;MeetingSchedulingStatus::Pending&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" edge="1" target="TrbpMphKD7TbdpJShQMu-64" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-65" value="&lt;span style=&quot;text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;MeetingSchedulingStatus::Pending&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" parent="1" target="TrbpMphKD7TbdpJShQMu-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284" y="416" as="sourcePoint" />
             <Array as="points">
@@ -167,10 +142,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="279" y="600" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-68" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MeetingSchedulingStatus::Failure&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" edge="1" target="TrbpMphKD7TbdpJShQMu-67" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-68" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MeetingSchedulingStatus::Failure&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" parent="1" target="TrbpMphKD7TbdpJShQMu-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284" y="580" as="sourcePoint" />
             <Array as="points">
@@ -178,10 +153,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="677" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-70" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MeetingSchedulingStatus::Connecting&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" edge="1" target="TrbpMphKD7TbdpJShQMu-69" parent="1">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-70" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MeetingSchedulingStatus::Connecting&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" parent="1" target="TrbpMphKD7TbdpJShQMu-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="657" as="sourcePoint" />
             <Array as="points">
@@ -189,34 +164,89 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-71" value="Mercury" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="70" width="100" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-71">
-          <mxGeometry x="45" y="632" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-74" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMercuryEventArrived&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;entryX=0.9;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TrbpMphKD7TbdpJShQMu-72" target="TrbpMphKD7TbdpJShQMu-75">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-83" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" source="TrbpMphKD7TbdpJShQMu-42" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1305" y="726" as="sourcePoint" />
-            <mxPoint x="1130" y="727" as="targetPoint" />
+            <mxPoint x="60" y="390" as="sourcePoint" />
+            <mxPoint x="-70.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-80" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1005" y="670" width="159" height="80" as="geometry" />
+        <mxCell id="TrbpMphKD7TbdpJShQMu-84" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="280" y="457" as="sourcePoint" />
+            <mxPoint x="-70.5" y="457" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-80">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-85" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="279" y="617" as="sourcePoint" />
+            <mxPoint x="-71.5" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-86" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="279" y="697" as="sourcePoint" />
+            <mxPoint x="-71.5" y="697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-16" value="MeetingsViewModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="70" width="170" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ljaFcBIiQB2sxFQ1hwOl-16">
+          <mxGeometry x="80" y="926" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="CalendarService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="70" width="100" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="411" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="647" width="10" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-1" value="CalendarAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="70" width="100" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="TrbpMphKD7TbdpJShQMu-1" vertex="1">
+          <mxGeometry x="44" y="425" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-56" value="scheduleMeeting" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" source="TrbpMphKD7TbdpJShQMu-50" target="TrbpMphKD7TbdpJShQMu-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="495" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-57" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontFamily=Lucida Console;fontSize=12;" parent="1" source="TrbpMphKD7TbdpJShQMu-55" target="TrbpMphKD7TbdpJShQMu-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-71" value="Mercury" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1492" y="70" width="100" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="TrbpMphKD7TbdpJShQMu-71" vertex="1">
+          <mxGeometry x="45" y="632" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-74" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMercuryEventArrived&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;(calendar.schedule)&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;entryX=0.9;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TrbpMphKD7TbdpJShQMu-72" target="TrbpMphKD7TbdpJShQMu-75" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1495" y="726" as="sourcePoint" />
+            <mxPoint x="1320" y="727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-80" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1195" y="670" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbpMphKD7TbdpJShQMu-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="TrbpMphKD7TbdpJShQMu-80" vertex="1">
           <mxGeometry x="120" y="34" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-76" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingScheduled&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;exitX=0.5;exitY=0.862;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="3nuBFxr9cyL0pnOWT2aG-5" parent="TrbpMphKD7TbdpJShQMu-80">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-76" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingScheduled&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;exitX=0.5;exitY=0.862;exitDx=0;exitDy=0;exitPerimeter=0;" parent="TrbpMphKD7TbdpJShQMu-80" target="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="121" y="54.74000000000001" as="sourcePoint" />
             <mxPoint x="-4" y="54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="TrbpMphKD7TbdpJShQMu-80">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" parent="TrbpMphKD7TbdpJShQMu-80" vertex="1">
           <mxGeometry x="-55" y="82" width="10" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-79" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;handleMeetingScheduled&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" edge="1" target="TrbpMphKD7TbdpJShQMu-78" parent="TrbpMphKD7TbdpJShQMu-80">
+        <mxCell id="TrbpMphKD7TbdpJShQMu-79" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;handleMeetingScheduled&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Lucida Console;fontSize=12;" parent="TrbpMphKD7TbdpJShQMu-80" target="TrbpMphKD7TbdpJShQMu-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-51" y="62" as="sourcePoint" />
             <Array as="points">
@@ -224,29 +254,79 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-83" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1" source="TrbpMphKD7TbdpJShQMu-42">
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1537" y="836" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-3" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMercuryEventArrived&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;(&lt;/font&gt;calendar.meeting.create)&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1" source="ljaFcBIiQB2sxFQ1hwOl-2" target="ljaFcBIiQB2sxFQ1hwOl-7">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="60" y="390" as="sourcePoint" />
-            <mxPoint x="-70.5" y="390" as="targetPoint" />
+            <mxPoint x="1616" y="861.5" as="sourcePoint" />
+            <mxPoint x="1340" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-84" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="280" y="457" as="sourcePoint" />
-            <mxPoint x="-70.5" y="457" as="targetPoint" />
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="860" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-5" value="onMeetingArrived" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" edge="1" target="ljaFcBIiQB2sxFQ1hwOl-4" parent="1" source="ljaFcBIiQB2sxFQ1hwOl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1205" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-85" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="279" y="617" as="sourcePoint" />
-            <mxPoint x="-71.5" y="617" as="targetPoint" />
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1316" y="836" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="890" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-9" value="onMeetingListArrived" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ljaFcBIiQB2sxFQ1hwOl-8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1144" y="870" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1174" y="870" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrbpMphKD7TbdpJShQMu-86" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;onMeetingSchedulingStatusChanged&lt;/font&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="279" y="697" as="sourcePoint" />
-            <mxPoint x="-71.5" y="697" as="targetPoint" />
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="960" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-11" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;decryptMeeting&lt;/font&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1" target="ljaFcBIiQB2sxFQ1hwOl-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1144" y="940" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1174" y="940" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="995" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-14" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; text-align: center&quot;&gt;notifyOnMeetingsChanged&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=11;" edge="1" target="ljaFcBIiQB2sxFQ1hwOl-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="975" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-19" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;onMeetingsChanged&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=11;" edge="1" parent="1" source="ljaFcBIiQB2sxFQ1hwOl-13" target="ljaFcBIiQB2sxFQ1hwOl-17">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="810" y="1200" as="sourcePoint" />
+            <mxPoint x="680" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-20" value="MeetingListViewController" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-514" y="70" width="230" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ljaFcBIiQB2sxFQ1hwOl-20">
+          <mxGeometry x="110" y="918" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-24" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;meetingsViewModel(_:onMeetingsChanged:)&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=11;" edge="1" parent="1" source="ljaFcBIiQB2sxFQ1hwOl-17" target="ljaFcBIiQB2sxFQ1hwOl-21">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="935" y="1015" as="sourcePoint" />
+            <mxPoint x="770" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljaFcBIiQB2sxFQ1hwOl-25" value="Schedule success,update UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="1000" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
