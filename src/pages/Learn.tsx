@@ -44,6 +44,11 @@ export default function Learn() {
   useEffect(() => {
     if (phase === 'SHOW_WORD' && currentWord) {
       setShuffledLetters(getShuffledLetters());
+      // 自动切换到输入阶段
+      const timer = setTimeout(() => {
+        useGameStore.setState({ phase: 'USER_INPUT' });
+      }, 800);
+      return () => clearTimeout(timer);
     }
   }, [phase, currentWord, getShuffledLetters]);
 
