@@ -84,6 +84,23 @@ export default function Learn() {
           handleSubmit();
         } else if (e.key === 'Backspace') {
           removeLetter(selectedLetters.length - 1);
+        } else {
+          // 字母按键支持
+          const key = e.key.toLowerCase();
+          if (/^[a-z]$/.test(key)) {
+            // 检查该字母是否可用（还有剩余次数）
+            const letterCount: Record<string, number> = {};
+            shuffledLetters.forEach(l => {
+              letterCount[l] = (letterCount[l] || 0) + 1;
+            });
+            const usedCount: Record<string, number> = {};
+            selectedLetters.forEach(l => {
+              usedCount[l] = (usedCount[l] || 0) + 1;
+            });
+            if (letterCount[key] && (usedCount[key] || 0) < letterCount[key]) {
+              selectLetter(key);
+            }
+          }
         }
       } else if (phase === 'CHECK_ANSWER') {
         if (e.key === 'Enter' || e.key === ' ') {
@@ -98,7 +115,7 @@ export default function Learn() {
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [phase, handleSubmit, handleNext, removeLetter, selectedLetters.length]);
+  }, [phase, handleSubmit, handleNext, removeLetter, selectedLetters.length, selectLetter, shuffledLetters]);
 
   return (
     <div className="min-h-screen pb-20 px-4 pt-8 relative z-10">
